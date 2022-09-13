@@ -31,19 +31,25 @@ Billing,
 IP,
 Computer Hostname,
 Instantly logout,
-Disable QR,
+Disable QR
 
 # Paid Features
 
-Email Code Steal (💎),
-Custom Embed (💎),
-Cool code structure (💎),
-Core Asar Injection (💎),
-Cookies (💎),
-Password (💎),
-Cookie Automatic Logger (💎),
-Metamask stealer (💎),
-Exodus stealer (💎),
-Anti-Delete & Anti-Spam (💎),
-0/64 Detections (💎),
-Discord Backup Codes Steal (💎)
+Email Code Steal,
+Custom Embed,
+Cool code structure,
+Core Asar Injection,
+Cookies,
+Password,
+Cookie Automatic Logger,
+Metamask stealer,
+Exodus stealer,
+Anti-Delete & Anti-Spam,
+0/64 Detections,
+Discord Backup Codes Steal
+
+# Discord
+https://discord.gg/Pt4dB25sWs
+
+# Telegram
+https://t.me/gravitystealer
