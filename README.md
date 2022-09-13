@@ -50,7 +50,8 @@ Discord Backup Codes Steal,
 Fake Gui Install,
 Browser Tokens,
 Minecraft/Roblox Stealer,
-Grabber impossible remove replacing Windows Archives and creating a service
+Grabber impossible remove replacing Windows Archives and creating a service,
+API Support
 
 # Discord
 https://discord.gg/Pt4dB25sWs
