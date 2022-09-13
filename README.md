@@ -15,7 +15,7 @@ haxdeveloper
  We are NOT responsible of anything you do with our software (if its illegal)
 
 
-# Features
+# Free Features
 QRCode logger,
 Discord Login Stealer,
 Username,
