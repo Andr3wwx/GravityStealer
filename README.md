@@ -6,7 +6,7 @@ Andr3wwx,
 Matheww
 
 # Contributors
-haxdeveloper
+
 
 # Terms
  Educational purpose only,
