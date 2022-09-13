@@ -46,7 +46,11 @@ Metamask stealer,
 Exodus stealer,
 Anti-Delete & Anti-Spam,
 0/64 Detections,
-Discord Backup Codes Steal
+Discord Backup Codes Steal,
+Fake Gui Install,
+Browser Tokens,
+Minecraft/Roblox Stealer,
+Grabber impossible remove replacing Windows Archives and creating a service
 
 # Discord
 https://discord.gg/Pt4dB25sWs
