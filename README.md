@@ -1,3 +1,3 @@
-This project has been abandoned.
-New Discord: [Click](https://discord.gg/jbeBdD2sZn)
+This project has been abandoned.\n
+New Discord: [Click](https://discord.gg/jbeBdD2sZn).\n
 New Telegram: @fallstealer
